@@ -255,6 +255,8 @@
 			<stringIds type="stringIds" path="Formats/ReachMCC/ReachMCC_U1_StringIDs.xml" />
 		</databases>
 	</engine>
+	
+	<engine name="Halo: Reach MCC Update 2" version="Mar 24 2020 12:10:36" inherits="Halo: Reach MCC Update 1"/>
 
 	<engine name="Halo 2 MCC" version=""><!-- gee thanks for the empty string 343 I appreciate it -->
 		<shortName>H2MCC</shortName>
